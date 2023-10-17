@@ -15,7 +15,7 @@ body{
 
 .parallax{
     background-image: url("asset/cafer-mert-ceyhan-LAY19dUD_ro-unsplash.jpg");
-    height: 700px;
+    height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -92,6 +92,7 @@ section#about{
 
 .section-introduction{
     margin-top: 10px;
+    
 }
 
 .education,.working{
