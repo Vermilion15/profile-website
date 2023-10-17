@@ -91,7 +91,7 @@ section#about{
 }
 
 .section-introduction{
-    margin-top: 1em;
+    margin-top: 10px;
 }
 
 .education,.working{
@@ -106,7 +106,7 @@ section#about{
 .img-icon{
     max-width: 12em;
     height: 10em;
-    margin-top: 1em;
+    margin-top: 10px;
 }
 
 img{
@@ -142,6 +142,7 @@ img{
     width: 100%;
     overflow: hidden;
     text-align: center;
+    gap: 10px;
 }
 
 .contact-form{
